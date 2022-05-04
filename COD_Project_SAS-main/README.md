@@ -26,6 +26,6 @@ The equation used is <b>Wins</b> = -20 + <b>KD</b>*50
 
 ## Conclusion
 Given my sample, it can be concluded that eployment status has a significant effect on wins in the game.  
-For a more indepth analysis including limitations, other methods, created performance criteria analysis, regression analysis with <b>hours</b> as the dependent variable and more visit the <a href = COD_Project_writeup.pdf>project write up.</a>  
+For a more indepth analysis including limitations, other methods, created performance criteria analysis, regression analysis with <b>hours</b> as the dependent variable and more visit the <a href = CODProjectwriteup.pdf>project write up.</a>  
 
 Thank you for viewing.
