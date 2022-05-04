@@ -1,10 +1,14 @@
 # COD_Project_SAS
-A small project that analyzes COD player data.
  ## Introduction
- The purpose of this paper is to investigate whether or not full-time employment status has an impact on the success in a game titled Warzone. My interest in this peaked as a way to win an argument with a friend who claims that you can’t be that good at the game and work full-time. I am also interested in the ways you could predict wins or hours to be played in  a given week by a player. The variables are work, hours, KD, and wins.
-Work is a binary categorical variable that indicates full-time employment or not.
-Hours represents the number of hours played per week.
-KD is a popular in-game metric that calculates the ratio of number of enemies eliminated to number of times killed. It is often used as a measure of overall skill in the community.
-Wins represents the number of games won. A game can only be won by outlasting all other opponents.
-Good is a judging criteria. If an observation KD and wins are greater than the product of the median of our sample data and median of the population (retrieved from CODwarzonestats.com) then ‘good’ was assigned, otherwise, ‘bad’ was assigned.
-The data was collected by asking for responses for a questionnaire on different social platforms that host the Warzone community. First it was reddit but it was going slow so I moved to their Discord server. After I was approaching the end, I noticed that I had too few non-full-time observations. So I went into the game, found random players, and the first question I asked was whether they worked full-time. If they didn't then I’d move to the next player. After finding a player it was easy to get the stats I needed because of the resources the games developers provide. I could always ask them how many wins they had and what their KD was but to get how many hours they played, I was able to use a third party website, cod.tracker.gg, to view how many minutes they've played in the past 7 days. My prompts and screenshots of the messages I sent out are available in the appendix.
+Does employment status have a major effect on gaming performance? Let's find out.
+## Data Collection
+Warzone, a Call of Duty game, was at peak popularity when I conducted this experiment. To get data I posted in COD subreddits, sent message to users who posted regularly in the subreddit, did the same in Call of Duty discords, and loaded up the game and asked the people I was randomly paired with.
+## Data Summary
+
+## Data Visualization
+
+## Methods
+
+## Results
+
+## Conclusion
